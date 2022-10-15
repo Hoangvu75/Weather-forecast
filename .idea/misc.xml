@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/ash.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_broken_clouds.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_clear_sky.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_few_clouds.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_linear_clear.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_linear_cloud.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_mist.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_rain.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_scattered_clouds.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_shower_rain.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_snow.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/background_thunder_storm.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/clear.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/clear_sky.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/clouds.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/drizzle.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/dust.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/fog.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/haze.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/ic_clear.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/mist.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/rain.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/sand.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/smoke.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/snow.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/squall.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/thunderstorm.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable-v24/tornado.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable/background_linear.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/drawable/customborder.xml" value="0.1145" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/layout/activity_start.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/layout/dialog_custom_progress.xml" value="0.17552083333333332" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/layout/fragment_current_location.xml" value="0.22" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/layout/fragment_other_location.xml" value="0.16666666666666666" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/layout/weather_info.xml" value="0.17447916666666666" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/layout/weather_item.xml" value="0.14666666666666667" />
+        <entry key="..\:/baitap/code/Android/WeatherApplication/app/src/main/res/layout/weather_search_city_item.xml" value="0.14666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
